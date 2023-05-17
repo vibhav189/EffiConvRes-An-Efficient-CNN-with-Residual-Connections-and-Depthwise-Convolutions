@@ -18,6 +18,6 @@ CNNs are frequently employed in deep learning as a result of their significant c
 
 # RESULTS
 <p float="center">
-  <img src="[https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG](https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Training.png" width="800" />
-  <img src="[https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG](https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Validation.png" width="800" />
+  <img src="https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG](https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Training.png" width="800" />
+  <img src="https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG](https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Validation.png" width="800" />
 </p>
