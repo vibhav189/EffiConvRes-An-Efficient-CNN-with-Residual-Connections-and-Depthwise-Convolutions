@@ -12,5 +12,12 @@ There are still a lot of challenging problems in computer vision that need to be
 CNNs are frequently employed in deep learning as a result of their significant contributions to these domains, which are rapidly growing and developing.A crucial characteristic of CNNs is their ability to achieve "spatial invariance," which refers to their capacity to identify and extract visual information from any position in the image. Because CNNs automatically extract features from photographs and other data, manual image extraction is not required. Therefore, CNNs are a valuable Deep Learning technique for producing precise findings. Although CNNs are most frequently employed for image analysis, they may be used for a wide variety of data analysis and classification applications. They can be used because they address crucial subjects including face recognition, video classification, identifying street/traffic signs, classifying galaxies, and interpreting and diagnosing/analyzing medical images, among others.
 
 # ARCHITECTURE
+<p float="center">
+  <img src="https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Horizontal%20efficonvres.png" width="800" />
+</p>
 
 # RESULTS
+<p float="center">
+  <img src="[https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG](https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Training.png)" width="800" />
+  <img src="[https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG](https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Validation.png)" width="800" />
+</p>
