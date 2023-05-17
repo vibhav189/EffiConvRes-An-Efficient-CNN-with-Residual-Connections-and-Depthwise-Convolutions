@@ -19,5 +19,13 @@ CNNs are frequently employed in deep learning as a result of their significant c
 # RESULTS
 <p float="center">
   <img src="https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Training.png" width="800" />
+</p>
+Training Accuracies graph
+<p float="center">
   <img src="https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Validation.png" width="800" />
 </p>
+Validation Accuracies graph
+<p float="center">
+  <img src="https://github.com/vibhav189/GD11-Design-and-develop-a-new-CNN-Architecture/blob/main/Images/Accuracies.png" width="800" />
+</p>
+Accuracies
