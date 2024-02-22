@@ -1,6 +1,3 @@
-# GD11-Design-and-develop-a-new-CNN-Architecture
-GD11 Final year project
-
 # INTRODUCTION
 Machine learning processes new inputs based on patterns found over time, rather than explicitly programming them—that is, without having to manually write out instructions for a system to do something. To do this, machines must first be educated on prior data. Deep Learning teaches robots or computers to classify, recognise, and learn from experience in a manner comparable to that of the human brain. Massive data analysis has found success with deep learning. Deep learning can be used to train AI agents in both supervised and unsupervised learning settings. These days, it is used for many different purposes, such as image classification, object identification, segmentation, style transfer, colorization, reconstruction, super-resolution, and synthesis. Deep learning neural network techniques are displacing statistical techniques in the field of computer vision.
 
